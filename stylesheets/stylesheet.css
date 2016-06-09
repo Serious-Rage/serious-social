@@ -270,7 +270,7 @@ Full-Width Styles
 
 .outer {
   width: 100%;
-	background-color:black;
+	background-color:grey;
 	color:red;
 }
 
@@ -279,7 +279,7 @@ Full-Width Styles
   max-width: 840px;
   padding: 20px 10px;
   margin: 0 auto;
-	background-color:grey;
+	background-color:black;
 	color:red;
 }
 
@@ -375,13 +375,13 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
-	background-color:black;
+	background-color:#4a4a4a;
 	color:red;
 }
 
 #footer_wrap {
-  background-color:black;
-	color:red;
+  background-color:grey;
+	color:black;
 }
 
 
