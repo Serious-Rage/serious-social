@@ -376,6 +376,7 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
 	background-color:#4a4a4a;
+	background-image: url(http://localhost:8888/pictures/zzzz/images/Image%202014-11-26%20at%2010.46%20AM.jpg);
 	color:red;
 }
 
